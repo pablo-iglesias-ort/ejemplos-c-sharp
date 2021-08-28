@@ -1,7 +1,7 @@
 ﻿namespace ProyectoDeConsola.Modelo
 {
 	public abstract class Vehiculo
-	{
+	{				
 		public int Posicion { get; set; }
 
 		public abstract void Arrancar();

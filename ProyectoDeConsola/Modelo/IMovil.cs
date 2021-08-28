@@ -2,7 +2,7 @@
 {
 	public interface IMovil
 	{
-		public int Avanzar();
+		public int Avanzar();		
 		public int Retroceder();
 	}
 }
